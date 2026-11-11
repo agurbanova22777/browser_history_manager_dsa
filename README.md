@@ -1,6 +1,6 @@
 # Browser History Manager
 
-## My contribution
+## Nargiz Aliyeva
 
 - `Node.java` stores a page URL, its visit time, and links to the previous and next pages.
 - `DoublyLinkedList.java` manages the history using a doubly linked list built from scratch.
