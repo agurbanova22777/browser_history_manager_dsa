@@ -85,7 +85,7 @@ public class BrowserHistory {
         displayRecursive(node.getNext());
     }
 
-    public void Delete_histroy() { // grammatically following the project requirements (pdf: page 2, first line)
+    public void Delete_histroy() { // grammatically following the project requirements (pdf: page 2, line 6)
         history.clear();
         current = null;
     }
