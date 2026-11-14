@@ -11,3 +11,9 @@
 
 - `BrowserHistory.java` manages browser navigation, i.e., visiting new pages, going back and forward, displaying the current page and browsing history, deleting browsing history and enforcing a maximum capacity constraint of 50 pages.
 - `Main.java` provides the terminal-based user interface, which allows users to interact with the browser history manager through a menu.
+
+
+## Aydan Gurbanova
+- `HistoryEditor.java` handles deleting URLs, restoring the last deleted page and deleting all history.
+- `HistoryFileManager.java` exports and imports the history as a text file.
+- `EditorAndStorageTests.java` and `BrowserHistoryTests.java` test normal use and edge cases.
